@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Calculator from "./Calculator";
 
 const ContainerBg = styled.div`
-  height: 785px;
+  height: 100vh;
   background-color: var(--light-grayish-cyan);
   display: flex;
   flex-direction: column;
